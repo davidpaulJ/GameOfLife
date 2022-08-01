@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameOfLife</string>
+    <string name="next">NEXT</string>
+    <string name="reset">RESET</string>
+</resources>
